@@ -3,6 +3,8 @@
 ### **Welcome 👋**
 To get started with this course, clone this repo and follow these commands:
 
+DEMO : https://forty-two-dao.vercel.app/
+
 1. Run `npm install` at the root of your directory
 2. Run `npm start` to start the project
 3. Start coding!
@@ -13,5 +15,16 @@ To get started with this course, clone this repo and follow these commands:
 7. Run `8-deploy-vote.js`
 
 ### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/projects/COb520aae3-7925-42f4-a5e7-eaf718933766) and link your Discord account so you can get access to helpful channels and your instructor!
+👣 Next Steps
+Since you don't want to leave my profile just yet! Here are a few things you can do :
+
+❤️ Support me : (Give me your money 💰) So that I can upgrade my slow Desktop 🥺😌... Donate
+
+❤️ Mentor me : If you are one of those Saints 😇 who try to help their juniors then you can always leave a msg here Telegram Badge
+
+❤️ Offer work : Send the details on Linkedin Badge or Gmail Badge
+
+❤️ Follow me : on GitHub followers and Twitter Badge and be a part of my journey... and See if I can make it or not!
+
+❤️ Connect with me : Linkedin Badge
 ![Screen Shot 2022-03-12 at 9 04 27 PM](https://user-images.githubusercontent.com/93553700/158027568-167ea0b1-a1bf-49bf-ac7d-85e797e7a236.png)
