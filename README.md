@@ -30,7 +30,8 @@ and be a part of my journey... and See if I can make it or not!
 
 ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Shukhrat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shukhrat-mamatkulov-079930233/)](https://www.linkedin.com/in/shukhrat-mamatkulov-079930233/)
 
-<hr/>![Screen Shot 2022-03-12 at 9 04 27 PM](https://user-images.githubusercontent.com/93553700/158027783-4d5f99d9-632b-449c-a5b3-cd181bb6a5d6.png)
+<hr/>
 
+![Screen Shot 2022-03-12 at 9 04 27 PM](https://user-images.githubusercontent.com/93553700/158027801-ee11095f-167e-4c40-bd03-b969ee8e3bac.png)
 
 ⭐️ From [RMX999](https://github.com/RMX999)
