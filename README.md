@@ -15,16 +15,21 @@ DEMO : https://forty-two-dao.vercel.app/
 7. Run `8-deploy-vote.js`
 
 ### **Questions?**
-👣 Next Steps
-Since you don't want to leave my profile just yet! Here are a few things you can do :
 
-❤️ Support me : (Give me your money 💰) So that I can upgrade my slow Desktop 🥺😌... Donate
+_Since you don't want to leave my profile just yet! Here are a few things you can do :_
 
-❤️ Mentor me : If you are one of those Saints 😇 who try to help their juniors then you can always leave a msg here Telegram Badge
+❤️ Support me : (Give me your money 💰) So that I can upgrade my slow Desktop 🥺😌... [![Donate](https://img.shields.io/badge/$$-Support-green.svg?style=flat)]()
 
-❤️ Offer work : Send the details on Linkedin Badge or Gmail Badge
+❤️ Mentor me : If you are one of those Saints 😇 who try to help their juniors then you can always leave a msg here [![Telegram Badge](https://img.shields.io/badge/-AristocratNm-2399ff?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/AristocratNm)](https://t.me/AristocratNm)
 
-❤️ Follow me : on GitHub followers and Twitter Badge and be a part of my journey... and See if I can make it or not!
+❤️ Offer work : Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Shukhrat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shukhrat-mamatkulov-079930233/)](https://www.linkedin.com/in/shukhrat-mamatkulov-079930233/)
+or [![Gmail Badge](https://img.shields.io/badge/-shukhratmamatkulov1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aman.atg001@gmail.com)](mailto:shukhratmamatkulov1999@gmail.com)
 
-❤️ Connect with me : Linkedin Badge
-![Screen Shot 2022-03-12 at 9 04 27 PM](https://user-images.githubusercontent.com/93553700/158027568-167ea0b1-a1bf-49bf-ac7d-85e797e7a236.png)
+❤️ Follow me : on [![GitHub followers](https://img.shields.io/github/followers/RMX999?label=Follow&style=social)](https://github.com/RMX999/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@Aristocrat_OFF-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AristocratOFF)](https://twitter.com/AristocratOFF)
+and be a part of my journey... and See if I can make it or not!
+
+❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Shukhrat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shukhrat-mamatkulov-079930233/)](https://www.linkedin.com/in/shukhrat-mamatkulov-079930233/)
+
+<hr/>
+
+⭐️ From [RMX999](https://github.com/RMX999)
